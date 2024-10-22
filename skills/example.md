@@ -1,9 +1,9 @@
-# kartik shukla
+# Rohan Kumar
 
-**Skill**: JavaScript
+**Skill**: Python
 
 **Resources**:
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript.info](https://javascript.info/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/Python)
+- [JavaScript.info](https://www.python.org/psf-landing/)
 
-**Reason for Learning**: I want to become proficient in frontend development.
+**Reason for Learning**: I want to become proficient in Backend development.
