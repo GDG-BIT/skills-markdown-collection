@@ -1,9 +1,9 @@
 # kartik shukla
 
-**Skill**: JavaScript
+**SKILL**: JavaScript
 
-**Resources**:
+**RESOURCES**:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript.info](https://javascript.info/)
 
-**Reason for Learning**: I want to become proficient in frontend development.
+**Reason for Learning**: I want to become proficient in front-end development.
