@@ -1,9 +1,10 @@
-# kartik shukla
+## Siddhant Tripathy
 
-**Skill**: JavaScript
+**Skill**: Python 
 
 **Resources**:
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript.info](https://javascript.info/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Glossary/Python)
+- [Python-official website](https://www.python.org/)
 
-**Reason for Learning**: I want to become proficient in frontend development.
+**Reason for Learning**: Since I'm a beginner, this language is extremely easy. 
+Also, I could keep my options open for AI/ML, web development, and such things. 
