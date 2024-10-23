@@ -1,9 +1,9 @@
-# kartik shukla
+# 
 
-**Skill**: JavaScript
+**Skill**: Meghana Vashisht
 
 **Resources**:
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript.info](https://javascript.info/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/python)
+- [Python.info](https://python.info/)
 
 **Reason for Learning**: I want to become proficient in frontend development.
