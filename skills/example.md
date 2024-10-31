@@ -122,3 +122,14 @@ I am passionate about shaping my future in computer science through four pillars
 - [HTML CSS FRONTEND DEV](https://youtube.com/playlist?list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E&si=WnFLDkHk4Ca11AES)
 
 **Reason for Learning**: want to be a software engineer in faang ,interested in frontend developememt and competitive programming.
+
+# SHASHANK SHANKAR
+
+**Skill**: C ,Python
+
+**Resources**:
+- [CS50](https://pll.harvard.edu/course/cs50s-introduction-programming-scratch)
+- [PYTHON](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=WIrAsxW-FyC5xJhI)
+- [C PROGRAM](https://www.udemy.com/course/c-programming-for-beginners-/)
+
+**Reason for Learning**: Coding in both C and Python lets you harness C's efficiency and low-level control for performance-critical tasks, like systems programming, and Python's simplicity and versatility for rapid development in fields like data science, automation, and web development. This combo gives you flexibility to tackle a wide range of projects with the right tool for each job.
