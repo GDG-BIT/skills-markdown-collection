@@ -30,6 +30,18 @@
 - [GeeksforGeeks](https://www.geeksforgeeks.org/html-tutorial/)
 - [Coursera](https://www.coursera.org/collections/learn-css/)
 
+# Tejas KP
+
+**Skill**: C
+
+**Resources**:
+- [CS50](https://cs50.harvard.edu/x/2024/weeks/1/)
+- [Coursera](https://www.coursera.org/specializations/c-programming)
+
+**Reason for Learning**: I want to become proficient in frontend development.
+
+
+=======
 # Poorvika                                                                                                                                                              
 **Skill**:java                                                                                                                                                               
 **Reason for Learning**: Java is a solid precursor to other programming languages.
@@ -46,12 +58,21 @@
 **Reasons for learning**: core programming language ; flexible and versatile 
 
 # Swathi J
-
-**Skill**: Python
-
-**Resources**:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/python)
 - [python.info](https://python.info/)
 
 **Reason for Learning**: I want to become Full Stack developer.
+
+
+
+# Tejas K Prakash
+
+**Skill**: Python
+
+**Resources**:
+
+- [YouTube](https://www.youtube.com/playlist?list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0)
+- [Coursera](https://www.coursera.org/specializations/python)
+
+**Reason for Learning**: I want to become proficient in Backend development.
 
