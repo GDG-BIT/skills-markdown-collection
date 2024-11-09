@@ -75,4 +75,9 @@
 - [Coursera](https://www.coursera.org/specializations/python)
 
 **Reason for Learning**: I want to become proficient in Backend development.
+- # Anushri Pathak
+
+**Skill**: Python
+
+**Reasons for learning**: to gain the knowledge
 
