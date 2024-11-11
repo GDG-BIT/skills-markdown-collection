@@ -77,4 +77,13 @@
 
 **Reason for Learning**: I want to become proficient in frontend development.
 
+# RituRaj
+
+**Skill**: UI/UX Design
+
+**Resources**:
+- [Coursera](https://www.coursera.org/specializations/ui-ux-design)
+- [Google Career Certificates](https://grow.google/intl/en_in/certificates/)
+
+**Reason for Learning**: There are lot of job opportunities in this field
 
